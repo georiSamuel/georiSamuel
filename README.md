@@ -78,7 +78,7 @@ I'm always looking for new opportunities to expand my skills and knowledge in th
 ## •Contacts
 
 <div>
-  <a href="[mailto:georissamuelgouveia@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=georissamuelgouveia@gmail.com)">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=georissamuelgouveia@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
   <a href="https://linkedin.com/in/georis-samuel-4396392a4" target="_blank">
